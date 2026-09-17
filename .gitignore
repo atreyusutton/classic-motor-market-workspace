@@ -1,0 +1,8 @@
+.DS_Store
+.claude/settings.local.json
+node_modules/
+.env
+.env.*
+
+# App source lives in its own repo: atreyusutton/classic-motor-market
+/classic-motor-market/

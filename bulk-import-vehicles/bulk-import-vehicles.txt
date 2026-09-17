@@ -1,0 +1,529 @@
+Vehicle 1:
+listingStatus: active
+featured: true
+year: 1954
+make: Austin-Healey
+model: 100 BN1
+vehicleIdentifier: BN1L123456
+location: Monterey, CA
+mileage: 47000
+engine: 2.7L Inline-4
+transmission: 4-Speed Manual
+exteriorColor: British Racing Green
+interiorColorMaterial: Tan Leather
+askingPrice: 85000
+conditionGrade: show_car
+titleStatus: clean
+carfaxAvailable: false
+optionsAndFeatures: Original 90hp Austin A90 engine. Fold-down windscreen. Side curtains. Wire wheels. Dual SU carburettors. Original toolkit. Lucas electrical system. Leather strap bonnet.
+modifications: The car remains to original specification. It has been upgraded to a modern electronic ignition for reliability, and the original points ignition is included with the sale.
+vehicleHistory: This 1954 Austin-Healey 100 BN1 is a lifelong West Coast car delivered new in California. I am the 4th owner and have had it 6 years, following a 15-year ownership by a long-time Healey collector who oversaw a concours restoration. There is no rust and the body retains original metal. Minor stone chips on the bonnet reflect regular driving. The car has a clean title and no accident history. It keeps the signature fold-down windscreen and side curtains that define early BN1 cars, and it has been driven and maintained as a show-quality driver.
+maintenanceHistory: Comprehensive restoration in 2018: engine rebuilt to factory spec, gearbox serviced, suspension renewed, paint matched to British Racing Green. Interior re-trimmed in tan leather, instruments functional. Recent services include clutch, transmission, differential, and fresh Michelin period-correct tires (2023, under 500 miles). Documentation includes restoration receipts, owner’s and parts manuals.
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
+
+⸻
+
+Vehicle 2:
+listingStatus: active
+featured: true
+year: 1950
+make: Morris
+model: Minor Tourer
+vehicleIdentifier: MMTOURER501234
+location: Bend, OR
+mileage: 58000
+engine: 918cc Side-Valve Inline-4
+transmission: 4-Speed Manual
+exteriorColor: Almond Green
+interiorColorMaterial: Green Leather
+askingPrice: 14000
+conditionGrade: driver
+titleStatus: clean
+carfaxAvailable: false
+optionsAndFeatures: This show-winning early Series MM export model is one of approximately a dozen known left-hand drive tourers remaining worldwide. The numbers-matching 918cc engine retains its factory specification. The car features the distinctive split windshield, convertible top with proper side curtains, factory heater, trafficators, and all original steering wheel and gauges. It has earned awards at British car shows and represents an extremely rare opportunity to own a U.S.-delivered Morris Minor Tourer.
+modifications: Period-correct seat belts have been added for safety purposes. Otherwise, the car has been meticulously restored to original specification with the matching-numbers drivetrain completely preserved.
+vehicleHistory: This Morris Minor Tourer was U.S.-delivered in August 1950 as one of the rare left-hand drive export models. It was restored meticulously by long-term owners before the current ownership. The third owner has maintained it in Oregon, where it has been garaged and driven regularly to events. The car carries a clean title with no known accident history. Extremely few LHD tourers are known to exist globally. The body and chassis are exceptionally solid with excellent panel fit, and the paint presents well with only light patina consistent with careful use over the years.
+maintenanceHistory: Since 2011, the car has been further refreshed with comprehensive attention to mechanical reliability. Recent work includes new radial tires for modern road use, completely rebuilt brakes, new battery and cables, full fuel system refresh including tank, sender, and all lines, rebuilt starter motor, new ring gear and clutch assembly, complete gasket refresh throughout, and rebuilt petrol gauge. Regular fluid changes and tune-ups have been maintained consistently. Complete documentation including restoration receipts, owner's manual, and parts manual are included.
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
+
+⸻
+
+Vehicle 3:
+listingStatus: active
+featured: true
+year: 1967
+make: Lancia
+model: Fulvia Rallye Coupe
+vehicleIdentifier: 818330006978
+location: Chicago, IL
+mileage: 98601
+engine: 1.3L V4 (rebuilt)
+transmission: 4-Speed Manual
+exteriorColor: Bianco Saratoga
+interiorColorMaterial: Black Vinyl
+askingPrice: 24500
+conditionGrade: driver
+titleStatus: clean
+carfaxAvailable: false
+optionsAndFeatures: This is a rare U.S.-market Series 1 Fulvia with numbers-matching components. The car features the distinctive aluminum hood, doors, and trunk lid that define these early models. It rides on new Pirelli Cinturato tires and retains all correct lights, brightwork, and trim. English gauges and U.S. bumpers with overriders are period-correct for the American market specification.
+modifications: The car has been restored sympathetically over eight years and remains close to its original specification with only a cosmetic red crinkle cam cover being non-original. All original trim and glass have been retained throughout the restoration process.
+vehicleHistory: This U.S.-delivered Fulvia Rallye represents one of the rare American-market Series 1 cars with 98,601 documented miles. The eight-year restoration involved stripping the shell completely, removing all rust, and replacing twelve panels while keeping the body structure sound. The original interior has been preserved with only a minor headliner flaw. The car has a clean title with no known accident history and has been stored indoors and driven regularly in fair weather. There are some items that need attention including the dash wood, clock, and horn. Rubber mats and seals are included but need installation, and the hood release needs some attention. The brake pedal is described as long but functional.
+maintenanceHistory: The engine was professionally rebuilt to stock specification and has under 3,000 miles since completion. The carburetors have been fully restored. Complete rust remediation was performed throughout the restoration, followed by a high-quality repaint in Bianco Saratoga that presents as very nice driver quality. Recent service includes fresh fluids, ignition system service, brake inspection, and the installation of correct Pirelli Cinturato tires in 2018.
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
+
+⸻
+
+Vehicle 4:
+listingStatus: active
+featured: true
+year: 1967
+make: Lancia
+model: Fulvia Coupe Series One
+vehicleIdentifier: 818130011996
+location: Milwaukee, WI
+mileage: 86126
+engine: 1.3L V4 (rebuilt, originally 1.2)
+transmission: 4-Speed Manual
+exteriorColor: Mirabello Beige
+interiorColorMaterial: Black Vinyl
+askingPrice: 22500
+conditionGrade: driver
+titleStatus: clean
+carfaxAvailable: false
+optionsAndFeatures: This U.S.-market Series One Fulvia rolls on Campagnolo alloy wheels and features a period-correct wood steering wheel with proper Jaeger gauges. All correct trim and glass remain intact. The car rides on Pirelli tires installed in 2017 and comes with an extensive binder containing detailed history and receipts documenting its life and restoration.
+modifications: The engine has been upgraded from the original 1.2L to a rebuilt 1.3L V4 for improved performance and reliability. The paint color was changed to Mirabello Beige, which is another period-correct Fulvia color, though not the original shade. All other components have been kept to stock specification with proper Lancia parts.
+vehicleHistory: This U.S. car shows 86,126 miles and has been a familiar presence at Coffee & Classics events since 2011. Between 2002 and 2005, it underwent a comprehensive bare-metal respray and complete engine rebuild performed by Autosprint Ltd. The car has been regularly driven and maintained by Lancia specialists in Chicago and Kenosha. The interior is largely original, though the passenger side shows wear and needs some attention. The owner is selling to focus attention on another Fulvia project. The car has no known accident history and carries a clean title. Extensive receipts and photo history document the restoration and ongoing maintenance.
+maintenanceHistory: The engine was completely rebuilt with carburetors fully restored to proper function. The cooling system and ignition were comprehensively refreshed. The bare-metal repaint in Mirabello Beige was completed over a thoroughly rust-corrected shell. Correct Pirelli tires were installed in 2017. Recent service includes complete fluids refresh, valve adjustment, and brake system service. Ongoing maintenance by Lancia specialists is thoroughly documented in the included binder with receipts and service records.
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
+
+⸻
+
+Vehicle 5:
+listingStatus: active
+featured: false
+year: 1971
+make: Alfa Romeo
+model: GTV 2000
+vehicleIdentifier: AR3025017
+location: Boulder, CO
+mileage: 89000
+engine: 2.0L Twin Cam Inline-4
+transmission: 5-Speed Manual
+exteriorColor: Rosso Alfa
+interiorColorMaterial: Black Vinyl
+askingPrice: 68000
+conditionGrade: driver
+titleStatus: clean
+carfaxAvailable: true
+optionsAndFeatures: Weber twin-choke carbs, 5-speed, independent rear suspension, Bertone styling, Cromodora wheels, period Blaupunkt radio, full tool kit.
+modifications: Electronic ignition upgrade; period Blaupunkt installed; otherwise stock.
+vehicleHistory: Italy-delivery car imported to the US in the 1980s. Enthusiast-owned; I am the 6th US owner (4 years). Honest driver with age-appropriate wear, no known accidents, clean title. Minor surface corrosion in common spots but solid structure. Used for touring and club events; stored indoors.
+maintenanceHistory: Recent major service: timing belt, water pump, Weber rebuild, full fluid service. Brakes refreshed (pads and rotors); clutch hydraulics serviced. Paint shows chips and light scratches; dash shows checking. Records for 10+ years plus import papers included.
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
+
+⸻
+
+Vehicle 6:
+listingStatus: active
+featured: false
+year: 1973
+make: Volkswagen
+model: 1303
+vehicleIdentifier: 1132345678
+location: Portland, OR
+mileage: 112000
+engine: 1.6L Air-Cooled Flat-4
+transmission: 4-Speed Manual
+exteriorColor: Marino Yellow
+interiorColorMaterial: Brown Vinyl
+askingPrice: 28500
+conditionGrade: driver
+titleStatus: clean
+carfaxAvailable: true
+optionsAndFeatures: Curved windshield Super Beetle. MacPherson strut front suspension. Flow-through ventilation. Original Blaupunkt radio. Luggage compartment light. Padded dash.
+modifications: Electronic ignition upgrade; retains stock appearance and character.
+vehicleHistory: German-delivery 1303 imported to the US in the late 1970s; West Coast car since. I am the 5th owner (3 years). Honest patina, no known accidents, clean title. Minor surface rust near rear bumper mounts; heater channels solid. Driven on weekends and maintained by air-cooled specialists.
+maintenanceHistory: Recent tune-up (plugs, points, carb service), brake service, rebuilt front suspension (struts and bushings), smooth-shifting gearbox, clutch cable adjustment. Paint shows age/fade with touch-ups; interior original vinyl with wear but intact. Original owner’s manual and past records included.
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
+
+⸻
+
+Vehicle 7:
+listingStatus: active
+featured: true
+year: 1979
+make: Porsche
+model: 930 Turbo
+vehicleIdentifier: 9309900123456
+location: Scottsdale, AZ
+mileage: 67000
+engine: 3.3L Turbo Flat-6
+transmission: 4-Speed Manual
+exteriorColor: Guards Red
+interiorColorMaterial: Black Leather
+askingPrice: 185000
+conditionGrade: show_car
+titleStatus: clean
+carfaxAvailable: true
+optionsAndFeatures: Intercooled 3.3L Turbo, sport seats, Fuchs wheels, whale tail spoiler, Turbo script, A/C, power windows, limited slip differential.
+modifications: Matching-numbers, no modifications from factory specification.
+vehicleHistory: Beverly Hills delivery; 3 owners. Concours-level condition yet driven. No rust or accident history; clean Carfax/title. Maintained by Porsche specialists; stored in climate control.
+maintenanceHistory: Recent turbo service, intercooler service, full tune-up, brakes and suspension refreshed. Compression strong. New Michelin Pilot Sports on refinished Fuchs. Extensive records and Porsche COA included.
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
+
+⸻
+
+Vehicle 8:
+listingStatus: sold
+featured: false
+year: 1981
+make: Mercedes-Benz
+model: 380SL
+vehicleIdentifier: WDB10704512012345
+location: Santa Fe, NM
+mileage: 109000
+engine: 3.8L V8
+transmission: 4-Speed Automatic
+exteriorColor: Saffron Yellow
+interiorColorMaterial: Palomino Leather
+askingPrice: 7900
+conditionGrade: driver
+titleStatus: clean
+carfaxAvailable: true
+optionsAndFeatures: This California saffron yellow R107 came equipped with both the removable hardtop and soft top for year-round versatility. Power windows and locks provided convenience, while cruise control made it an excellent highway cruiser. The car featured alloy wheels, automatic climate control, and the original Becker radio system. The hardtop was included with the sale.
+modifications: A respray was performed in the original saffron yellow color to refresh the paintwork. The original Becker radio was retained. The hardtop seals were replaced for proper weatherproofing. All mechanical components remained stock R107 specification with the original 3.8L V8 and four-speed automatic transmission.
+vehicleHistory: This California-delivered 380SL showed 109,000 miles and was maintained as a summer-use car by its careful owner. The respray in the original saffron yellow color was professionally executed, and the dash remained crack-free, which is notable for these models. Both the hardtop and soft top were included. The car showed no rust, reflecting its California life and proper storage. It was used as a weekend cruiser and stored indoors between uses.
+maintenanceHistory: The timing chain guides and tensioners were replaced as preventative maintenance, along with fresh valve cover gaskets to eliminate any seepage. New spark plugs and wires were installed along with fresh fluids and filters throughout. The brake system was comprehensively refreshed with new components. Motor mounts were replaced to eliminate drivetrain vibration. The transmission received a complete service with new fluid and filter. A new soft top was professionally installed, and recent tires were fitted. The hardtop received new seals for proper fit and weatherproofing, and the air conditioning system was serviced to blow cold.
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
+
+⸻
+
+Vehicle 10:
+listingStatus: active
+featured: true
+year: 1985
+make: Renault
+model: R5 Turbo 2
+vehicleIdentifier: VF1822000F0123456
+location: Miami, FL
+mileage: 42000
+engine: 1.4L Turbo Inline-4 (mid-engine)
+transmission: 5-Speed Manual
+exteriorColor: Olympic Blue
+interiorColorMaterial: Blue Cloth Sport Seats
+askingPrice: 125000
+conditionGrade: show_car
+titleStatus: clean
+carfaxAvailable: false
+optionsAndFeatures: Widebody Turbo 2, Recaro sport seats, Michelin TRX wheels, limited slip differential, rally-bred suspension, power windows, rear hatch storage.
+modifications: None; retained to factory specification with correct wheels and trim.
+vehicleHistory: One of roughly 3,167 built; imported to US in the 1990s. I am the 4th US owner (5 years). No known accidents; clean title. Minor stone chips only; always garaged. Used sparingly for events; maintained by a Renault specialist familiar with Turbo 2 cars.
+maintenanceHistory: Recent turbo service and seals, intercooler cleaning, fuel system service, brakes and suspension inspected, transmission fluid service, and cooling refresh. Records from import onward plus French registration papers.
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
+
+⸻
+
+Vehicle 11:
+listingStatus: active
+featured: true
+year: 1987
+make: BMW
+model: M3
+vehicleIdentifier: WBSAK0317H2300123
+location: Austin, TX
+mileage: 95000
+engine: 2.3L S14 Inline-4
+transmission: 5-Speed Manual
+exteriorColor: Alpine White
+interiorColorMaterial: Anthracite Cloth Sport Seats
+askingPrice: 89000
+conditionGrade: show_car
+titleStatus: clean
+carfaxAvailable: true
+optionsAndFeatures: S14 engine, Getrag 5-speed, limited slip differential, M-Technic body kit, BBS cross-spoke wheels, power windows, sunroof, sport suspension.
+modifications: None; matching-numbers driveline with stock suspension and exhaust.
+vehicleHistory: US-spec E30 M3 delivered in Texas; dry-climate car. I am the 4th owner (7 years). No known accidents; clean Carfax. Driven regularly but carefully; stored indoors. Retains all M3-specific components and original panels.
+maintenanceHistory: Valve adjustment, timing belt, water pump, cooling refresh, brake overhaul (rotors and pads), suspension bushings refreshed, transmission and diff fluids serviced. Interior tidy with minor cloth wear; dash checking but no cracks.
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
+
+⸻
+
+Vehicle 12:
+listingStatus: active
+featured: false
+year: 1987
+make: Porsche
+model: 944 Turbo
+vehicleIdentifier: WP0AA2958HN150123
+location: Lake Forest, IL
+mileage: 186000
+engine: 2.5L Turbo Inline-4
+transmission: 5-Speed Manual
+exteriorColor: Guards Red
+interiorColorMaterial: Black Leather
+askingPrice: 32500
+conditionGrade: driver
+titleStatus: clean
+carfaxAvailable: false
+optionsAndFeatures: This rare 1987 Turbo features ABS and power lock options. The car is set up as a fast and 100% reliable fun driver for driving events with no leaks of any kind. The engine has been completely re-sealed top, bottom, front, and back. Additional performance equipment includes a 3 bar FPR, chip, boost enhancer, strut brace, adjustable Konis, stainless steel brake lines, and extensive bushings.
+modifications: The car has been thoughtfully modified for reliability and performance with a chip, boost enhancer, and adjustable Koni suspension. A short shifter has been installed along with stainless steel brake lines and upgraded bushings throughout. All modifications have been done with quality and driving events in mind, and the car would not hesitate to drive cross country.
+vehicleHistory: This Fuelfed member performer has an incredible story. We were there when this Porsche was purchased in 2010 and watched, helped, and bled as it was transformed into a reliable workhorse. It's done thirteen TFDs, Motorgearos, roadtrips, and trackwork—all flawlessly. Well-known in Fuelfed circles, this 944 has only two previous owners including the current owner. It was purchased in 2010 with 186k miles from a commuting owner and has a long maintenance history. Clean title with no accidents. The cosmetics show overspray on seals, one dash crack, a seat tear, and stone chips, all honest and earned through serious driving.
+maintenanceHistory: In June 2020, under 2k miles ago, the car received a complete clutch and bearings refresh using a Sachs kit with resurfaced flywheel, rear main seal and pilot bearing replacement, new slave and master cylinders plus clutch hose, shift linkage with short shifter installation, rebuilt transmission mount, alternator replacement, speed sensors, four new Falken Azenis RT615 tires, and timing and balance belts. Between 2016 and 2017, the oil pan gasket was replaced along with rod bearings as a preventative measure, and timing, balance belts, and pulleys were refreshed. In 2015, the head gasket and head were rebuilt with new lifters installed, new tires fitted, and the AC compressor replaced at 155k miles.
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
+
+⸻
+
+Vehicle 13:
+listingStatus: sold
+featured: false
+year: 1988
+make: Porsche
+model: 911 Targa
+vehicleIdentifier: WP0EB0917JS161234
+location: San Diego, CA
+mileage: 83000
+engine: 3.2L Flat-6
+transmission: 5-Speed Manual (G50)
+exteriorColor: Guards Red
+interiorColorMaterial: Black Leather
+askingPrice: 44900
+conditionGrade: driver
+titleStatus: clean
+carfaxAvailable: true
+optionsAndFeatures: This Guards Red Targa featured the desirable G50 five-speed manual transmission and removable Targa top that was professionally restored. Classic Fuchs wheels, Carrera brake system, power seats, cold air conditioning, and cruise control rounded out the equipment. The 83,000-mile example presented as an honest driver with excellent mechanical condition.
+modifications: A pop-off valve and turbo tie rods were fitted for improved reliability. The Targa top was professionally refurbished and properly sealed. The air conditioning system was converted to modern R134a refrigerant. All other components remained to factory specification with the matching-numbers 3.2L flat-six.
+vehicleHistory: This California car from new carried a clean Carfax with no accident history through its fourth owner. The paint was largely original showing only minor chips consistent with careful use, and fresh Targa seals were installed during the top restoration. The car was garage-kept and driven on weekends, building a reputation as a strong-running 3.2 with a smooth-shifting G50 transmission. Complete service records since 2005 were included with the sale.
+maintenanceHistory: A major engine-out service was completed in 2015 including comprehensive valve adjustment, new plugs, filters, and fluids, fresh valve cover gaskets, and complete inspection. The brake system received new pads and rotors. The Targa top was professionally rebuilt with new seals and mechanisms. The air conditioning system was converted to R134a and serviced to blow cold. CV boots were replaced and the clutch hydraulics were serviced. New tires were fitted and all fluids were changed throughout the drivetrain.
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
+
+⸻
+
+Vehicle 14:
+listingStatus: active
+featured: true
+year: 1989
+make: Ferrari
+model: 328 GTS
+vehicleIdentifier: ZFFXC20A9K0123456
+location: Newport Beach, CA
+mileage: 34000
+engine: 3.2L V8
+transmission: 5-Speed Manual
+exteriorColor: Rosso Corsa
+interiorColorMaterial: Tan Leather
+askingPrice: 175000
+conditionGrade: show_car
+titleStatus: clean
+carfaxAvailable: true
+optionsAndFeatures: Removable targa, Cromodora wheels, power windows, A/C, Pininfarina design, original Blaupunkt stereo, full tool kit.
+modifications: None; matching numbers throughout.
+vehicleHistory: Beverly Hills delivery; 3 owners. Kept in SoCal. Museum-quality yet driven. No accidents, clean title and Carfax. Stored indoors.
+maintenanceHistory: Timing belt and water pump recently, full tune-up, brakes and suspension serviced, clutch adjusted. Records from new, window sticker, COA. Tires Michelin Pilot Sports (under 500 miles).
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
+
+⸻
+
+Vehicle 15:
+listingStatus: active
+featured: false
+year: 1990
+make: Audi
+model: Coupe Quattro
+vehicleIdentifier: WAUZZZ89ZLA123456
+location: Denver, CO
+mileage: 78000
+engine: 2.3L Turbo Inline-5
+transmission: 5-Speed Manual
+exteriorColor: Lago Blue Metallic
+interiorColorMaterial: Grey Leather
+askingPrice: 45000
+conditionGrade: driver
+titleStatus: clean
+carfaxAvailable: true
+optionsAndFeatures: Quattro AWD, sport suspension, BBS wheels, heated seats, ABS, trip computer, power sunroof and windows.
+modifications: Modern stereo installed; original Gamma radio included. Otherwise stock.
+vehicleHistory: Colorado car maintained by German specialists. I am the 5th owner (5 years). Minor surface rust at a rear quarter chip; structurally solid. No known accidents; clean title. Driven in fair weather; garage-stored.
+maintenanceHistory: Turbo inspection and service, cooling refresh, tune-up, brake work, Quattro system and transmission service. Some suspension bushings aging but serviceable. Records for 12 years, original manuals included.
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
+
+⸻
+
+Vehicle 16:
+listingStatus: sold
+featured: false
+year: 1991
+make: Land Rover
+model: Range Rover County
+vehicleIdentifier: SALHV1242MA123456
+location: Bozeman, MT
+mileage: 158000
+engine: 3.9L V8
+transmission: 4-Speed Automatic
+exteriorColor: Ardennes Green
+interiorColorMaterial: Tan Leather
+askingPrice: 4980
+conditionGrade: driver
+titleStatus: clean
+carfaxAvailable: true
+optionsAndFeatures: This short-wheelbase Range Rover Classic came equipped with full-time four-wheel drive, ABS anti-lock brakes, air suspension system, power seats, power windows and locks, sunroof, factory brush guard, roof rack, and the original tool kit. The Ardennes green over tan leather color combination represented classic Range Rover specification.
+modifications: An updated radio with Bluetooth capability was installed for modern connectivity. The factory running gear was retained throughout including the air suspension system which was properly serviced. All other mechanical components remained stock Range Rover County specification.
+vehicleHistory: This Texas truck in Ardennes green over tan leather showed 158,000 miles and was notably rust-free, a testament to its southwestern life. The SWB (short wheelbase) configuration made it more nimble than later long-wheelbase models. It maintained a clean title with no major accidents reported. The paint showed typical cosmetic wear with some clear coat fade on the hood and roof. The interior displayed age-appropriate wear but remained complete and functional throughout. The truck was used for both light trails and highway trips, with consistent garage storage between uses. Some light surface rust was noted but no structural concerns.
+maintenanceHistory: This Range Rover received an extensive mechanical refresh covering all major systems. The brake system was completely overhauled with new components throughout. The suspension system received comprehensive attention with fresh components and proper air suspension service. All seals were replaced to eliminate leaks. The cooling system was refreshed with new radiator, hoses, and thermostat. The ignition system received a complete tune-up. ABS system was serviced and functioning correctly. The engine top-end was refreshed with new gaskets and seals. All bushings throughout the suspension and chassis were replaced. The transmission needed service and had light surface rust noted at time of sale. Service records covering approximately ten years were included.
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
+
+⸻
+
+Vehicle 17:
+listingStatus: active
+featured: false
+year: 1994
+make: Land Rover
+model: Range Rover County
+vehicleIdentifier: SALLDHVX8RA123456
+location: Jackson Hole, WY
+mileage: 145000
+engine: 3.9L V8
+transmission: 4-Speed Automatic
+exteriorColor: Epsom Green
+interiorColorMaterial: Cream Leather
+askingPrice: 32000
+conditionGrade: driver
+titleStatus: clean
+carfaxAvailable: true
+optionsAndFeatures: 3.9L V8, 4-speed auto, full-time 4WD with center diff, air suspension, ABS, cruise, power windows and locks, wood trim.
+modifications: Aftermarket roof rack installed; original components included.
+vehicleHistory: Late first-gen Range Rover. Mountain West life; 4th owner for 8 years. Used for ranch work and highway trips. Minor surface rust on hinges and underbody; no major rust or accidents. Clean title. Paint shows fade and scratches; interior worn but functional.
+maintenanceHistory: Cooling system and tune-up recent; air suspension serviced; brakes and transmission serviced. Records around 10 years plus some original docs.
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
+
+⸻
+
+Vehicle 18:
+listingStatus: active
+featured: false
+year: 1996
+make: Mercedes-Benz
+model: C36 AMG
+vehicleIdentifier: WDBHM36E4TF123456
+location: Chicago, IL
+mileage: 137000
+engine: 3.6L Inline-6
+transmission: 4-Speed Automatic
+exteriorColor: Black
+interiorColorMaterial: Black Leather with Wood Trim
+askingPrice: 18500
+conditionGrade: driver
+titleStatus: clean
+carfaxAvailable: true
+optionsAndFeatures: This rare AMG-built, Mercedes-warrantied sedan features the hand-assembled 3.6L inline-six engine with sport-tuned suspension. Approximately 334 examples were imported to North America, making this an exceptionally rare car. Equipment includes AMG wheels with the original mono-blocks optionally available separately, power seats, power windows and locks, cold air conditioning, cruise control, and factory alarm system. A Continental Bluetooth stereo has been installed for modern connectivity, with the original radio and security code included.
+modifications: The Continental Bluetooth head unit provides modern functionality while the original Becker radio and code are included for those wanting to restore to stock. Multi-spoke AMG wheels are fitted, with the original mono-block wheels available for separate purchase. The CD changer and antenna have been disconnected. All drivetrain components remain stock AMG specification.
+vehicleHistory: This North American C36 AMG represents one of approximately 334 imported to the continent. The current owner purchased it in 2013 at roughly 89,000 miles from the fourth owner, and it now shows approximately 137,000 miles. A minor 2009 incident on the driver side required paintwork but resulted in no observed structural damage. The car carries a clean title and Carfax report. It has been daily-driven with mechanically solid performance and regular maintenance. Minor cosmetic and rust items are present including typical nicks and small rust spots on the fenders. The shocks are seeping and the right front ball joint has been noted for future attention.
+maintenanceHistory: The car has been maintained with OEM Mercedes-Benz parts throughout ownership. Recent service was performed at MBS Automotive in Northbrook. The wiring harness and head gasket were addressed before current ownership. Recent work includes new Nitto Motivo tires, complete fluid service, brake inspection, and wheel alignment. Complete maintenance records and Carfax report are included with the vehicle.
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
+
+⸻
+
+Vehicle 19:
+listingStatus: sold
+featured: false
+year: 2001
+make: Land Rover
+model: Range Rover HSE
+vehicleIdentifier: SALPM16401A123456
+location: Seattle, WA
+mileage: 113000
+engine: 4.6L V8
+transmission: 4-Speed Automatic
+exteriorColor: Black
+interiorColorMaterial: Tan Leather
+askingPrice: 6400
+conditionGrade: driver
+titleStatus: clean
+carfaxAvailable: true
+optionsAndFeatures: This rust-free California P38 came fully equipped with air suspension that has been converted to Bilstein coil springs for reliability. The heated seats, Harman/Kardon audio system, dual-zone climate control, and sunroof all functioned properly at time of sale. The LCD display was working correctly, which is a notable feature on these models.
+modifications: The air suspension has been converted to a Bilstein coil spring setup for improved reliability and reduced maintenance. An updated Bluetooth head unit was installed while retaining the OEM speaker system. All other components remained stock specification.
+vehicleHistory: This rust-free California P38 HSE had 113k miles and presented in black over tan leather. It had three owners and maintained a clean title with no major accidents reported. The truck was used for both mountain trips and daily driving duties, with part-time garage storage. The clear coat showed minor aging on the hood and roof, typical for a vehicle of this age, and the interior remained clean with only light wear consistent with the mileage. The vehicle was always serviced at Land Rover specialists.
+maintenanceHistory: This Range Rover received an extensive mechanical refresh including a complete cylinder head and gasket replacement, new HVAC blowers, comprehensive brake service, full suspension overhaul, and all fluids changed. The Bilstein coil conversion was professionally installed. The cooling system received a full refresh with new radiator, hoses, and thermostat. The transmission was serviced with new fluid and filter. At time of sale, the heated seats and sunroof motor needed attention. Complete service records for the past eight years were included with the vehicle.
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
+
+⸻
+
+Vehicle 20:
+listingStatus: active
+featured: false
+year: 1967
+make: Benelli
+model: 250S
+vehicleIdentifier: BENELLI250S5320
+location: Chicago, IL
+mileage: 5320
+engine: 250cc Single Cylinder
+transmission: 4-Speed Manual
+exteriorColor: Red
+interiorColorMaterial: Black Seat
+askingPrice: 12500
+conditionGrade: show_car
+titleStatus: clean
+carfaxAvailable: false
+optionsAndFeatures: This is a genuine Benelli 250S, not a Wards Riverside rebadge. The bike features high-end desirable components including Borrani high-lip alloy wheels with stainless steel spokes, Conti exhaust system, vented drum brakes, Tommaselli switch gear, Hagon shocks and springs, CEV lights, Veglia speedometer, and Marzocchi forks. The beautiful hand-machined details throughout showcase Italian craftsmanship and make this a true piece of motoring history. The bike is eligible for vintage MotoGiro and RetroMoto events.
+modifications: The bike has been comprehensively rebuilt to be better than original while maintaining authenticity. The engine was completely rebuilt by Bill Truesdale at Apex in Bensonville, Illinois with a new barrel, piston, rings, head, valve seats, and valves. The Dellorto 24mm carburetor was rebuilt with new jets, float, needle, and gaskets. The ignition system was redone along with new throttle and clutch cables. All work was performed to the highest standards with complete documentation.
+vehicleHistory: Purchased in 2014 as what was represented as a fully restored motorcycle with only 5,320 original miles. Upon closer inspection and use, it became clear that a more thorough mechanical rebuild was necessary. Rather than compromise, a complete engine rebuild was commissioned through respected specialist Bill Truesdale at Apex in Bensonville, Illinois. All receipts for the professional work and parts are included. The result is pretty much a new and great-running classic Italian cafe racer. This little Benelli can outrun the twenty-five thousand dollar Ducati Diana 250 and is arguably just as passionate. Clean title with documented history.
+maintenanceHistory: The engine received a complete professional rebuild by Bill Truesdale at Apex in Bensonville, Illinois including new barrel, piston, rings, head, valve seats, and valves. The Dellorto 24mm carburetor was completely rebuilt with all new internal components including jets, float, needle, and gaskets. The entire ignition system was redone for reliability. New throttle and clutch cables were installed throughout. All work is documented with receipts for both labor and parts. The bike runs flawlessly and is ready to ride, show, or keep as a centerpiece in your living room.
+publishedAt: null
+publishFeePaid: true
+publishFeePaidAt: null
+publishFeeMethod: placeholder_checkbox
